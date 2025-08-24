@@ -10,17 +10,17 @@
       font-family: Arial, sans-serif;
       color: white;
 
-  /* Hình nền */
+   /* Hình nền */
       background-image: url("[https://i.postimg.cc/mhJpLmGV/wallpaper.jpg](https://i.postimg.cc/37g335gm/128760884-p3.png)");
-      background-size: cover;      /* phủ toàn màn hình */
-      background-position: center; /* canh giữa */
-      background-attachment: fixed; /* cố định khi cuộn */
+      background-size: cover;
+      background-position: center; 
+      background-attachment: fixed; 
     }
 
-  h1 {
+   h1 {
       text-align: center;
       margin-top: 20%;
-      text-shadow: 2px 2px 5px black; /* để chữ nổi bật hơn */
+      text-shadow: 2px 2px 5px black; 
     }
   </style>
 </head>
