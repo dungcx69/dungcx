@@ -11,7 +11,7 @@
       color: white;
 
    /* Hình nền */
-      background-image: url("[https://image-5.uhdpaper.com/wallpaper/anime-girl-body-tattoo-white-hair-red-eyes-4k-wallpaper-uhdpaper.com-134@5@h.jpg)");
+      background-image: url("https://backiee.com/static/wallpapers/1000x563/417007.jpg");
       background-size: cover;
       background-position: center; 
       background-attachment: fixed; 
