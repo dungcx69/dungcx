@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="vi">
 <head>
   <meta charset="UTF-8">
@@ -10,14 +9,14 @@
       font-family: Arial, sans-serif;
       color: white;
 
-   /* Hình nền */
+    /* Hình nền */
       background-image: url("https://backiee.com/static/wallpapers/1000x563/417007.jpg");
       background-size: cover;
       background-position: center; 
       background-attachment: fixed; 
     }
 
-   h1 {
+     h1 {
       text-align: center;
       margin-top: 20%;
       text-shadow: 2px 2px 5px black; 
