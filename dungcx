@@ -1,24 +1,30 @@
-</>
+<!DOCTYPE html>
 <html lang="vi">
 <head>
-  <meta charset="utf-8">
+  <meta charset="UTF-8">
   <title>My Website</title>
   <style>
-    html, body { height: 100%; }
-    body{
-      margin:0; color:#fff; font-family: Arial, sans-serif;
-      /* Ảnh nền trực tiếp, hoạt động ngay */
-      background: url(https://backiee.com/static/wallpapers/1000x563/417007.jpg)
-                  center / cover fixed no-repeat;
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      color: white;
+
+      /* Hình nền */
+      background-image: url("https://i.postimg.cc/mhJpLmGV/wallpaper.jpg");
+      background-size: cover;      /* phủ toàn màn hình */
+      background-position: center; /* canh giữa */
+      background-attachment: fixed; /* cố định khi cuộn */
     }
-    h1{
-      margin:0; height:100%;
-      display:grid; place-items:center;
-      text-shadow:2px 2px 6px #000;
+
+    h1 {
+      text-align: center;
+      margin-top: 20%;
+      text-shadow: 2px 2px 5px black; /* để chữ nổi bật hơn */
     }
   </style>
 </head>
 <body>
-  <h1>chúc mừng giờ mày đã là 1 con chó!</h1>
+  <h1>chúc mừng giờ mày đã là 1 con chó ngu!</h1>
 </body>
 </html>
