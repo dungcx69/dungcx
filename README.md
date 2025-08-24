@@ -12,7 +12,7 @@
       color: white;
 
       /* Hình nền */
-      background-image: url("https://picsum.photos/1920/1080");
+      background-image: url("https://postimg.cc/mhJpLmGv");
       background-size: cover;       /* phủ toàn màn hình */
       background-position: center;  /* canh giữa */
       background-attachment: fixed; /* cố định khi cuộn */
