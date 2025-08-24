@@ -10,14 +10,14 @@
       font-family: Arial, sans-serif;
       color: white;
 
-   /* Hình nền */
+      /* Hình nền */
       background-image: url("https://i.postimg.cc/mhJpLmGV/wallpaper.jpg");
       background-size: cover;      /* phủ toàn màn hình */
       background-position: center; /* canh giữa */
       background-attachment: fixed; /* cố định khi cuộn */
     }
 
-  h1 {
+    h1 {
       text-align: center;
       margin-top: 20%;
       text-shadow: 2px 2px 5px black; /* để chữ nổi bật hơn */
